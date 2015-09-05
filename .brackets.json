@@ -9,7 +9,8 @@
                 "sourceComments": "null",
                 "outputStyle": "nested"
             },
-            "linting.collapsed": false
+            "linting.collapsed": false,
+            "brackets-git.gitPath": "H:\\Program Files\\Git\\bin\\git.exe"
         }
     }
 }
